@@ -1,0 +1,15 @@
+[submodule "Assets/Packages/AudioManager"]
+	path = Assets/Packages/AudioManager
+	url = git@github.com:CyberBuggy/AudioManager.git
+[submodule "Assets/Packages/CreateProjectStructure"]
+	path = Assets/Packages/CreateProjectStructure
+	url = git@github.com:CyberBuggy/CreateProjectStructure.git
+[submodule "Assets/Packages/Interactions"]
+	path = Assets/Packages/Interactions
+	url = git@github.com:CyberBuggy/Interactions.git
+[submodule "Assets/Packages/LoadingScreen"]
+	path = Assets/Packages/LoadingScreen
+	url = git@github.com:CyberBuggy/LoadingScreen.git
+[submodule "Assets/Packages/MenuScreenUtils"]
+	path = Assets/Packages/MenuScreenUtils
+	url = git@github.com:CyberBuggy/MenuScreenUtils.git
