@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Demos/LoadingManager/LoadingManager.unity
+    guid: 8f91251b236cbec48812ca212f756e8d
+  - enabled: 1
+    path: Assets/Demos/LoadingManager/Temp_LoadingManager.unity
+    guid: a6bcd7f4488a33241a1c37fc2b2b864c
+  - enabled: 1
+    path: Assets/Demos/LoadingManager/LoadingTest 1.unity
+    guid: ddf6089253bd46a4dae098ae2eaa3781
+  - enabled: 1
+    path: Assets/Demos/LoadingManager/LoadingTest 2.unity
+    guid: 841e6412fc857944cae9f50100676d29
+  - enabled: 1
+    path: Assets/Demos/LoadingManager/LoadingTest 3.unity
+    guid: e5c281dc6aa896043abbac4e7d0f8ac5
   m_configObjects: {}
