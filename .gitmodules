@@ -13,3 +13,6 @@
 [submodule "Assets/Packages/MenuScreenUtils"]
 	path = Assets/Packages/MenuScreenUtils
 	url = git@github.com:CyberBuggy/MenuScreenUtils.git
+[submodule "Assets/Packages/GeneralSpriteShapes"]
+	path = Assets/Packages/GeneralSpriteShapes
+	url = https://github.com/CyberBuggy/GeneralSpriteShapes
