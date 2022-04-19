@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 415bd79a4ea6ef9489ab0c2f4bf37d47, type: 3}
+  m_Name: CoinPickup
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - {fileID: 8300000, guid: a0003a73d202d2f458f63c0d6fc7ab06, type: 3}
+  - {fileID: 8300000, guid: ec4fe5a9202e3594193d8c8e9dbfc52a, type: 3}
+  - {fileID: 8300000, guid: ab8dbc56aa1af3942929d3fae4ad45c3, type: 3}
+  - {fileID: 8300000, guid: dfd016202a22a084fb5b44494b562b24, type: 3}
+  - {fileID: 8300000, guid: 33e14cd8732bff549a7df7448b5a7fe2, type: 3}
+  - {fileID: 8300000, guid: 38648c89132cb7b4bb185714ed4d054d, type: 3}
+  - {fileID: 8300000, guid: 9632063af0f2c1040aeabab6112aaba4, type: 3}
+  - {fileID: 8300000, guid: 13acc8a42a0569b448a3072593bc7892, type: 3}
+  - {fileID: 8300000, guid: f0553171ad73a1d4e96f3905302fbec1, type: 3}
+  - {fileID: 8300000, guid: d440aa15472eea541ab2de9ccda88d5d, type: 3}
+  _volume: 1
+  _pitch: 1
