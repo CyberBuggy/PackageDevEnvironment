@@ -204,7 +204,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1162795219
 PrefabInstance:
@@ -243,7 +243,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3179289168027432785, guid: 57d379816ac70ee48ade65db69d55c04, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3179289168027432785, guid: 57d379816ac70ee48ade65db69d55c04, type: 3}
       propertyPath: m_LocalPosition.x
@@ -287,7 +287,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3453951912161999940, guid: 57d379816ac70ee48ade65db69d55c04, type: 3}
       propertyPath: _moveSpeed
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5275366545008220528, guid: 57d379816ac70ee48ade65db69d55c04, type: 3}
       propertyPath: m_RootOrder
@@ -326,7 +326,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1637323397}
+  m_Father: {fileID: 1960914682}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1624046961
@@ -438,7 +438,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.56, y: 2.56}
   m_EdgeRadius: 0
---- !u!4 &1637323397 stripped
+--- !u!4 &1960914682 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3179289168027432785, guid: 57d379816ac70ee48ade65db69d55c04, type: 3}
   m_PrefabInstance: {fileID: 1162795219}

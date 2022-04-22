@@ -19,3 +19,6 @@
 [submodule "Assets/Packages/Leaderboards"]
 	path = Assets/Packages/Leaderboards
 	url = https://github.com/CyberBuggy/Leaderboards
+[submodule "Assets/Packages/TweenControllers"]
+	path = Assets/Packages/TweenControllers
+	url = https://github.com/CyberBuggy/TweenControllers
