@@ -16,3 +16,6 @@
 [submodule "Assets/Packages/GeneralSpriteShapes"]
 	path = Assets/Packages/GeneralSpriteShapes
 	url = https://github.com/CyberBuggy/GeneralSpriteShapes
+[submodule "Assets/Packages/Leaderboards"]
+	path = Assets/Packages/Leaderboards
+	url = https://github.com/CyberBuggy/Leaderboards
