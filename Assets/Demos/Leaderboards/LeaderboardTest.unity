@@ -376,6 +376,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Leaderboard Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 829110730876900266, guid: 43d053492d20f834997d9b36ad2d8941, type: 3}
+      propertyPath: _randomNameGenerationCount
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 829110730876900267, guid: 43d053492d20f834997d9b36ad2d8941, type: 3}
       propertyPath: m_Pivot.x
       value: 0
