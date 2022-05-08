@@ -4969,6 +4969,7 @@ GameObject:
   - component: {fileID: 644542865}
   - component: {fileID: 644542864}
   - component: {fileID: 644542869}
+  - component: {fileID: 644542870}
   m_Layer: 0
   m_Name: Super Slippery Player
   m_TagString: Untagged
@@ -5188,6 +5189,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _platformerMovement: {fileID: 644542864}
   _transformToFlip: {fileID: 752286245}
+--- !u!114 &644542870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 644542863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29726ee38015e654d87a9fa8bbe42796, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _gameObjectReference: {fileID: 11400000, guid: 91310c08d6d6a7443bf1b6f193f080a2, type: 2}
+  _initialObjectToSubscribe: {fileID: 644542863}
+  _subscribeAtAwake: 1
 --- !u!1 &654063163
 GameObject:
   m_ObjectHideFlags: 0
@@ -14325,6 +14341,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1608902368}
   - component: {fileID: 1608902367}
+  - component: {fileID: 1608902369}
   m_Layer: 0
   m_Name: Virtual Camera
   m_TagString: Untagged
@@ -14351,7 +14368,7 @@ MonoBehaviour:
   m_Priority: 10
   m_StandbyUpdate: 2
   m_LookAt: {fileID: 0}
-  m_Follow: {fileID: 644542868}
+  m_Follow: {fileID: 0}
   m_Lens:
     FieldOfView: 40
     OrthographicSize: 12.5
@@ -14382,6 +14399,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1608902369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1608902366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8a6e6e0b1429c74e915d840688899df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _virtualCamera: {fileID: 1608902367}
+  _gameObjectReference: {fileID: 11400000, guid: 91310c08d6d6a7443bf1b6f193f080a2, type: 2}
+  assignMediatorOnStart: 1
 --- !u!1 &1633792842
 GameObject:
   m_ObjectHideFlags: 0
