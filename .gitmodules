@@ -28,3 +28,6 @@
 [submodule "Assets/Packages/Movement"]
 	path = Assets/Packages/Movement
 	url = https://github.com/CyberBuggy/Movement
+[submodule "Assets/Packages/DialogueManager"]
+	path = Assets/Packages/DialogueManager
+	url = git@github.com:CyberBuggy/DialogueManager.git
