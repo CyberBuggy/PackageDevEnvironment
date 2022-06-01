@@ -31,3 +31,6 @@
 [submodule "Assets/Packages/DialogueManager"]
 	path = Assets/Packages/DialogueManager
 	url = git@github.com:CyberBuggy/DialogueManager.git
+[submodule "Assets/Packages/--force"]
+	path = Assets/Packages/--force
+	url = git@github.com:CyberBuggy/DialogueManager.git
